@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-04T10:15:41 IST" name="Default suite" finished-at="2021-07-04T10:15:51 IST" duration-ms="10043">
+    <groups>
+    </groups>
+    <test started-at="2021-07-04T10:15:41 IST" name="Default test" finished-at="2021-07-04T10:15:51 IST" duration-ms="10043">
+      <class name="com.maven.ashot.AshotRunner">
+        <test-method signature="VerifyTest()[pri:0, instance:com.maven.ashot.AshotRunner@647fd8ce]" started-at="2021-07-04T10:15:41 IST" name="VerifyTest" finished-at="2021-07-04T10:15:51 IST" duration-ms="10007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTest -->
+      </class> <!-- com.maven.ashot.AshotRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
